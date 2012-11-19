@@ -301,3 +301,4 @@ cmd_help() {
 	usage
 	exit 0
 }
+test test
